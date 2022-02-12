@@ -12,6 +12,6 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 
 Example: Python 3.8.10
 
-where 3 is Major version number
-      8 is Minor version number 
-      10 is patch version number
+where 3 is Major version number,
+      8 is Minor version number, 
+      10 is patch version number.
