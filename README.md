@@ -15,3 +15,13 @@ Example: Python 3.8.10
 where 3 is Major version number,
       8 is Minor version number, 
       10 is patch version number.
+
+# Releases
+
+## Release 1.0.0
+
+This release prints "Hello World!"
+
+## Release 1.1.0
+
+Added another file for printing "Hello World Again!"
