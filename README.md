@@ -10,3 +10,8 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 2. MINOR version when you add functionality in a backwards compatible manner
 3. PATCH version when you make backwards compatible bug fixes.
 
+Example: Python 3.8.10
+
+where 3 is Major version number
+      8 is Minor version number 
+      10 is patch version number
